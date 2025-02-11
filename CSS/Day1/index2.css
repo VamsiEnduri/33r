@@ -1,0 +1,46 @@
+/* p{
+    background-color: red;
+} */
+
+/* selector :-- which selets particular tag for styling
+   r choosing of particular for styling */
+
+
+   /* #vamsi{
+    background-color: yellow;
+   } */
+
+   /* .prop{
+    background-color: red;
+   } */
+
+   .hi{
+    color: blue;
+    font-size: 10px;
+   }
+
+   *{
+  color: purple;
+  font-size: 50px;
+   }
+
+   p{
+    color: red;
+    font-size: 20px;
+   }
+
+  
+
+   #bye{
+    color: green;
+    font-size: 100px;
+   }
+
+   /* .hi{
+background-color: red;
+   }
+
+
+   #bye{
+background-color: yellow;
+   } */
